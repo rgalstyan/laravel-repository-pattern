@@ -1,0 +1,19 @@
+<?php
+
+declare(strict_types=1);
+
+namespace App\Repository\Eloquent;
+
+use App\Repository\{{ class }}Interface;
+
+final class {{ class }}
+    extends BaseRepository
+    implements {{ class }}Interface
+{
+    public function __construct(
+
+    )
+    {
+
+    }
+}

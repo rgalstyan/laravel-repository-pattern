@@ -1,0 +1,10 @@
+<?php
+
+namespace App\Services;
+
+final class {{ class }} extends CRUDService
+{
+    public function __construct(
+
+    ){}
+}
